@@ -10,7 +10,7 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            int n = Convert.ToInt32(Console.ReadLine());    // массивке размер беру
+            int n = int.Parse(Console.ReadLine());    // массивке размер беру ///
             int[] arr = new int[n];     // 2 массив создать ету
             int[] arr1 = new int[n];
             int sum = 0, m = 0;     // жай сан есептеуге керек - sum, m - 2ші массивке жай санды беру үшін қолданамыз
@@ -38,7 +38,7 @@ namespace Task1
                         arr1[m] = arr[i];
                         m++;    // келесі жай санды 2ші массивтін келесі элементі ретінде орналастыру үшін
                     }
-                    sum = 0;   // неге = 0? себебі 0 теңестірмесек, келесі жай санды таба алмай қаламыз
+                    sum = 0;   // неге = 0? себебі 0 теңестірмесек, келесі жай санды таба алмай қаламыз ///
                 }
             }
             Console.WriteLine(m);

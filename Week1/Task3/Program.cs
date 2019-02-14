@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exaple
+namespace Task3
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine()); // массивке размер беру
+            int n = Convert.ToInt32(Console.ReadLine()); // массивке размер беру
             int[] arr = new int[n];                // 2 массив создать ету
             int[] arr1 = new int[n];
             int sum = 0, m = 0;         // жай сан есептеуге керек - sum, m - 2ші массивке жай санды беру үшін қолданамыз
