@@ -46,6 +46,8 @@ namespace Task1
             {
                 Console.Write(arr1[i] + " ");
             }
+
+            Console.ReadLine();
         }
     }
 }
