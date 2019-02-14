@@ -23,6 +23,8 @@ namespace Task4
                 m++;
                 Console.WriteLine();
             }
+
+            Console.ReadLine();
         }
     }
 }
