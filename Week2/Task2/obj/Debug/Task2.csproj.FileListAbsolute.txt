@@ -1,0 +1,14 @@
+C:\Users\Twins\source\repos\Week 2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Twins\source\repos\Week 2\Task2\bin\Debug\Task2.exe
+C:\Users\Twins\source\repos\Week 2\Task2\bin\Debug\Task2.pdb
+C:\Users\Twins\source\repos\Week 2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\Twins\source\repos\Week 2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Twins\source\repos\Week 2\Task2\obj\Debug\Task2.exe
+C:\Users\Twins\source\repos\Week 2\Task2\obj\Debug\Task2.pdb
+C:\Users\Twins\Desktop\PP2\PP2\Week2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Twins\Desktop\PP2\PP2\Week2\Task2\bin\Debug\Task2.exe
+C:\Users\Twins\Desktop\PP2\PP2\Week2\Task2\bin\Debug\Task2.pdb
+C:\Users\Twins\Desktop\PP2\PP2\Week2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\Twins\Desktop\PP2\PP2\Week2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Twins\Desktop\PP2\PP2\Week2\Task2\obj\Debug\Task2.exe
+C:\Users\Twins\Desktop\PP2\PP2\Week2\Task2\obj\Debug\Task2.pdb
